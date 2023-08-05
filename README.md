@@ -12,3 +12,5 @@ Note that graph _G_ is not usually complete. That is, some products have not bee
 ## Dataset
 
 We used data aggregated from the BeerAdvocate website. Although the original BeerAdvocate is no longer running, the Stanford SNAP Lab has saved this data and hosted it on data.world. See Section IV in the paper for a discussion of methods used to interpret this data into a bipartite graph.
+
+See the SQL queries in this file to understand the process of extracting data into a bipartite graph
